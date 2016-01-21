@@ -5,7 +5,7 @@ import android.view.View;
 
 
 public class fullScreen {
-
+// no hace falta mirar mas adelante
     protected static void hide(Activity activity ) {
         /*activity.getWindow()
                 .getDecorView()

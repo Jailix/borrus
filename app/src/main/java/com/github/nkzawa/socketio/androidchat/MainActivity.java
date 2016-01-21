@@ -14,14 +14,13 @@ public class MainActivity extends ActionBarActivity{
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 
-        fullScreen.hide(this);
+
         super.onCreate(savedInstanceState);
 
         setContentView(R.layout.activity_main);
     }
     @Override
     protected void onResume() {
-        fullScreen.hide(this);
 
         super.onResume();
     }

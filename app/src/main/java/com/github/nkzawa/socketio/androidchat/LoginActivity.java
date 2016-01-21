@@ -42,7 +42,7 @@ public class LoginActivity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        fullScreen.hide(this);
+
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
 
@@ -71,7 +71,7 @@ public class LoginActivity extends Activity {
     }
     @Override
     protected void onResume() {
-        fullScreen.hide(this);
+
         super.onResume();
     }
     @Override
