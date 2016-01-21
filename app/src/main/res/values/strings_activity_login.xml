@@ -1,0 +1,10 @@
+<resources>
+    <string name="title_activity_login">Join</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">Nombre de usuario</string>
+    <string name="action_sign_in">Entrar</string>
+    <string name="action_sign_in_short">Entrar</string>
+
+    <string name="error_field_required">Este campo es requerido</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chat para juego</string>
+    <string name="action_leave">Salir</string>
+    <string name="action_send">Enviar</string>
+    <string name="prompt_message"></string>
+
+    <string name="error_connect">Imposible conectar</string>
+
+    <!-- messages -->
+    <string name="message_welcome">Estás dentro</string>
+    <plurals name="message_participants">
+        <item quantity="one">Solo hay %d participante</item>
+        <item quantity="other">Hay %d participantes</item>
+    </plurals>
+    <string name="message_user_joined">%s entró</string>
+    <string name="message_user_left">%s salio</string>
+    <string name="user_action_typing">está escribiendo</string>
+
+
+</resources>
